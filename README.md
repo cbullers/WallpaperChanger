@@ -1,6 +1,8 @@
 # WallpaperChanger
 Change your Windows desktop with an image URL
 
+# [Release](https://github.com/cbullers/WallpaperChanger/releases)
+
 # Requirements
 Pretty much any verion of Windows
 
